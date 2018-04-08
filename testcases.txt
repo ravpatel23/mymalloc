@@ -1,0 +1,9 @@
+Authors: Matthew A. Handzy, Alex J. Topel
+testcases.txt
+Assigntment 1
+
+Testcase E:
+
+For testcase E, 
+
+Testcase F:
